@@ -1,6 +1,6 @@
 ## FinHub
 
-# About
+### About
 -User can select dark or light mode from header
 -Allows the user to get a quote of stocks/equtities searched by the symbol/ticker
 -Allows user to add that quote to their watchlist
@@ -9,7 +9,7 @@
 -gets trending stocks from API and displays in table
 -user can navigate to a specific stock/equities overview page that shows a chart, news, financials, etc.
 
-# What I learned / improved on
+### What I learned / improved on
 -fetching data from multiple APIs, limiting calls to avoid going over API limits, mapping and rendering data from JSON
 -State management
 -React Context API
